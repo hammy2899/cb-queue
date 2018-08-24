@@ -1,6 +1,6 @@
 {
   "name": "cb-queue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple utility to queue async functions",
   "main": "src/index.js",
   "module": "dist/cb-queue.min.js",
